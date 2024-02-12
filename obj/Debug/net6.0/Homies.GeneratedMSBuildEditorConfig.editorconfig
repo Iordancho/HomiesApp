@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Homies
+build_property.RootNamespace = Homies
+build_property.ProjectDir = D:\Code\ASP.NET\Homies_Skeleton\Homies\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Code\ASP.NET\Homies_Skeleton\Homies
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Event/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcRXZlbnRcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Event/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcRXZlbnRcQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Event/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcRXZlbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Event/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcRXZlbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Event/Joined.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcRXZlbnRcSm9pbmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/ASP.NET/Homies_Skeleton/Homies/ViewsHomies/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NIb21pZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nushgsam7a
